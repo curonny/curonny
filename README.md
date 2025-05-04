@@ -6,7 +6,7 @@ Python & Flutter Developer
 
 Software developer using Python. Lover of mobile applications, which is why I learned mobile development in Flutter.. A simple developer..
 
-* 🌍  I'm based in México, Mérida.
+* 🌍  I'm based in Madrid, Spain.
 * ✉️  You can contact me at [rmontano1992@gmail.com](mailto:rmontano1992@gmail.com)
 * 🧠  I'm learning Flutter
 
